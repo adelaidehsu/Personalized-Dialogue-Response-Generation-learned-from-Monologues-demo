@@ -7,7 +7,7 @@ In this work, we proposed a novel personalized dialogue generation method which 
 
 ## Model Structure
 
-![Image](src)
+![Image](https://drive.google.com/file/d/1XXqmrCj_gn7PShAZXQpY0dnVEwYSRrog/view)
 
 ```markdown
 Syntax highlighted code block
