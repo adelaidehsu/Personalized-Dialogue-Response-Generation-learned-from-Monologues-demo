@@ -1,12 +1,13 @@
-## Welcome to GitHub Pages
+## Project Introduction
 
-You can use the [editor on GitHub](https://github.com/adelaidehsu/Personalized-Dialogue-Response-Generation-learned-from-Monologues-demo/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Personalized responses are essential for having an informative and human-like conversation. 
+Because it is difficult to collect a large amount of dialogues involved with specific speakers, it is desirable that a dialogue generation model can learn to generate personalized responses simply from monologues of individuals. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+In this work, we proposed a novel personalized dialogue generation method which reduces the training data requirement to dialogues without speaker information and monologues of every target speaker.
 
-### Markdown
+## Model Structure
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+![Image](src)
 
 ```markdown
 Syntax highlighted code block
@@ -32,6 +33,6 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/adelaidehsu/Personalized-Dialogue-Response-Generation-learned-from-Monologues-demo/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
+### Notes
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+This website is associated with the paper "Personalized Dialogue Response Generation Learned From Monologues" by Feng-Guang Su and Aliyah R. Hsu. If you're interested in knowing more, please refer to the paper for more details.
