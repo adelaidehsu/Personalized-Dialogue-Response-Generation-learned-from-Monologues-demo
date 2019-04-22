@@ -50,4 +50,4 @@ In this work, we proposed a novel personalized dialogue generation method which 
 
 ## Notes
 
-This website is associated with the paper "Personalized Dialogue Response Generation Learned From Monologues" by Feng-Guang Su and Aliyah R. Hsu. If you're interested in knowing more, please refer to the paper for more details.
+This website is associated with the paper "Personalized Dialogue Response Generation Learned From Monologues" by Feng-Guang Su\* and Aliyah R. Hsu\* (*\* means equal contribution*). If you're interested in knowing more, please refer to the paper for more details.
