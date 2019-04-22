@@ -9,7 +9,7 @@ In this work, we proposed a novel personalized dialogue generation method which 
 
 ![Image](/model-structure.jpg)
 
-## Excerpted Sentence Examples
+## Generated Sentence Examples
 
 - Friends
 
