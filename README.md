@@ -7,7 +7,7 @@ In this work, we proposed a novel personalized dialogue generation method which 
 
 ## Model Structure
 
-![Image of model structure](https://github.com/adelaidehsu/Personalized-Dialogue-Response-Generation-learned-from-Monologues-demo/blob/master/model-structure.jpg)
+![Image](https://github.com/adelaidehsu/Personalized-Dialogue-Response-Generation-learned-from-Monologues-demo/blob/master/model-structure.jpg)
 
 ## Excerpted Sentence Examples
 
