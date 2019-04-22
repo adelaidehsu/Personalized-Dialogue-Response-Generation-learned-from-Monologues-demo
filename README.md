@@ -9,27 +9,43 @@ In this work, we proposed a novel personalized dialogue generation method which 
 
 ![Image](https://github.com/adelaidehsu/Personalized-Dialogue-Response-Generation-learned-from-Monologues-demo/blob/master/model-structure.jpg)
 
-```markdown
-Syntax highlighted code block
+## Excerpted Sentence Examples
 
-# Header 1
-## Header 2
-### Header 3
+- Friends
 
-- Bulleted
-- List
+**Input Message** | I saw him talking to her.
+------------ | -------------
+**(seq2seq)**| Have you even seen her?
+**Monica** | I told her he was killed...
+**Joey** | I told you to stop.
+**Chandler** | I know what the truth is.
+**Phoebe** | I just saw you, you know...
+**Ross** | I told you.
+**Rachel** | I'm sorry.
 
-1. Numbered
-2. List
+- The Big Bang Theory
 
-**Bold** and _Italic_ and `Code` text
+**Input Message** | Do you like him?
+------------ | -------------
+**(seq2seq)**| No, just stop.
+**Howard** | No, I'm sorry.
+**Raj** | He's a good kid.
+**Leonard** | No.
+**Sheldon** | He's a really good friend.
+**Penny** | He's a cool kid.
+**Amy** | Yeah yeah I know.
+**Bernadette** | He's my man.
 
-[Link](url) and ![Image](src)
-```
+- Mixture of multiple datasets
+*(Trump's monologues, Starwar movie scripts, Friends, Clinton's monologues, singer/song-writer's lyrics)*
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-## Sentence Examples
+**Input Message** | Forget it, man. | Where are we now? | He's so cute.
+------------ | ------------- | ------------- | -------------
+**Trump**| You're the one who's got my daughter! | Out on this near town. | He's...he's not a great guy.
+**Starwar** | I'm not sure. | We are on the east side. | He is not a man...
+**Friends** | I'm not sure one would hurt. | We are on the street to *unk*, and we both know that we will play. | He's a bad guy.
+**Clinton** | I'm sorry. I'm not sure what you mean. | We are here. | He's a good man, and he's my friend.
+**Singer** | I don't know, I was just thinking about him. | We want to go into town. | He is so cute!
 
 
 ## Notes
