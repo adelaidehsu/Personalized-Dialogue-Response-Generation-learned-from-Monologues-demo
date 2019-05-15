@@ -23,6 +23,26 @@ In this work, we proposed a novel personalized dialogue generation method which 
 **Ross** | I told you.
 **Rachel** | I'm sorry.
 
+**Input Message** | You have got to listen.
+------------ | -------------
+**(seq2seq)**| No! It's my plan!
+**Monica** | Listening.
+**Joey** | What's wrong?
+**Chandler** | You listen to me!
+**Phoebe** | You'll understand.
+**Ross** | Listen to me.
+**Rachel** | What are you doing here?
+
+**Input Message** | We don't need the price tag.
+------------ | -------------
+**(seq2seq)**| The most of the hat is not true.
+**Monica** | I don't think so.
+**Joey** | I don't know.
+**Chandler** | I know that.
+**Phoebe** | I don't need that.
+**Ross** | I don't care.
+**Rachel** | I don't care.
+
 - The Big Bang Theory
 
 **Input Message** | Do you like him?
@@ -35,6 +55,28 @@ In this work, we proposed a novel personalized dialogue generation method which 
 **Penny** | He's a cool kid.
 **Amy** | Yeah yeah I know.
 **Bernadette** | He's my man.
+
+**Input Message** | Want some coffee now?
+------------ | -------------
+**(seq2seq)**| Let's go.
+**Howard** | Let's go.
+**Raj** | Yeah.
+**Leonard** | Come here, please.
+**Sheldon** | No.
+**Penny** | No, no, no, no...
+**Amy** | Come on, I'm going to sleep.
+**Bernadette** | Come on!
+
+**Input Message** | I think we should tell her.
+------------ | -------------
+**(seq2seq)**| Okay. Well, I'll see the picture.
+**Howard** | I think I'm going to tell her that.
+**Raj** | I don't want to...
+**Leonard** | No!!
+**Sheldon** | I know!
+**Penny** | But I don't know her.
+**Amy** | I don't know...
+**Bernadette** | I swear it'll be over.
 
 - Mixture of multiple datasets
 *(Trump's monologues, Starwar movie scripts, Friends, Clinton's monologues, singer/song-writer's lyrics)*
@@ -50,4 +92,4 @@ In this work, we proposed a novel personalized dialogue generation method which 
 
 ## Notes
 
-This website is associated with the paper "Personalized Dialogue Response Generation Learned From Monologues" by Feng-Guang Su\* and Aliyah R. Hsu\* (*\* means equal contribution*). If you're interested in knowing more, please refer to the paper for more details.
+This website is associated with the paper "Personalized Dialogue Response Generation Learned From Monologues" by Feng-Guang Su\* and Aliyah R. Hsu\* (*\* indicates equal contribution*). If you're interested in knowing more, please refer to the paper for more details.
